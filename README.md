@@ -8,6 +8,12 @@
   <strong> MindMate </strong> 
 </p>
 
+<p align="center">
+<a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/language-swift5-f48041.svg?style=flat"></a>
+<a href="https://developer.apple.com/ios"><img src="https://img.shields.io/badge/platform-iOS%2026%2B-blue.svg?style=flat"></a>
+<a href="https://github.com/wxxsw/SwiftTheme/blob/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat"></a>
+</p>
+
 <h2> Демо </h2>
 
 <img src="Demo/demo.gif" width="300" alt="Demo gif">
